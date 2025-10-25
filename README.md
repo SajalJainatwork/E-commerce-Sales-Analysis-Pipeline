@@ -1,7 +1,8 @@
 # E-commerce-Sales-Analysis-Pipeline
 Create an advanced data engineering pipeline that processes and analyzes sales data from an e-commerce website using Apache Airflow for workflow management and ClickHouse as the high-performance data warehouse.
 
-![Global Architecture](./images/architecture.png)
+![Global Architecture]<img width="6811" height="3770" alt="ecom1" src="https://github.com/user-attachments/assets/041c47fc-a358-4434-a435-3eff5a22da96" />
+
 
 # Project Tasks:
 ## 1. Data Collection:
@@ -17,9 +18,11 @@ Create an advanced data engineering pipeline that processes and analyzes sales d
 - Schedule DAG runs to process data at regular intervals (e.g., daily or weekly).
 ## 5. Data Visualization:
 - Use Grafana and other python libraries to create insightful visualizations, showcasing sales trends, customer behavior, and other important metrics.
-  ![dashboard-1](./images/dashboard-1.png)
+
+  ![dashboard-1]<img width="2408" height="1166" alt="ecom2" src="https://github.com/user-attachments/assets/9abae6df-ed2a-4524-b896-43ffd99e662c" />
   
-  ![dashboard-2](./images/dashboard-2.png)
+  ![dashboard-2]<img width="2408" height="1084" alt="ecom3" src="https://github.com/user-attachments/assets/b879b74c-ebe7-4b50-a93b-d54ad6d7a603" />
+
 ## 6. Automation with Ansible:
 - Implement Ansible playbooks to automate the deployment and configuration of the ClickHouse database and Apache Airflow on a server or cloud platform.
 - Use Ansible to manage the project's infrastructure and dependencies efficiently.

@@ -1,6 +1,7 @@
-![ecommm](https://github.com/user-attachments/assets/701e6fad-0cbe-4b9b-82b7-57e5e06e92bd)
-
 ![ecomm](https://github.com/user-attachments/assets/0e7aa0f0-f682-49c4-ac6e-6733aa315794)
+
+
+<img width="1920" height="1178" alt="eshopper" src="https://github.com/user-attachments/assets/70040408-edc8-4913-91f3-f14d712f2b62" />
 
 
 

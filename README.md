@@ -1,3 +1,9 @@
+
+![ecomm](https://github.com/user-attachments/assets/0e7aa0f0-f682-49c4-ac6e-6733aa315794)
+
+
+
+
 # E-commerce-Sales-Analysis-Pipeline
 Create an advanced data engineering pipeline that processes and analyzes sales data from an e-commerce website using Apache Airflow for workflow management and ClickHouse as the high-performance data warehouse.
 
